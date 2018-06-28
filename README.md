@@ -7,4 +7,4 @@ J'ai utiliser le langage [langage Python](https://www.python.org/). pour le prog
 ![alt text](https://image.noelshack.com/fichiers/2018/26/5/1530227560-attaquedestitant.png)
 
 ### Petite video
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+[![PyExo #1 l'attaque des titans](http://i.imgur.com/Ot5DWAW.png)](https://www.youtube.com/watch?v=rzFngFt73oI "PyExo #1 l'attaque des titans")
